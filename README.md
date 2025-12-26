@@ -1,6 +1,6 @@
 # Self‑Driving Lane Car — Reinforcement Learning Simulation
 
-**Author:** Pedro Yáñez Meléndez
+**Author:** Pedro Yanez Melendez
 
 ## Purpose
 - Design and implement a self‑driving lane car simulation
